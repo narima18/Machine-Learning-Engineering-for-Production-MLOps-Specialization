@@ -32,5 +32,23 @@ In this Specialization, you will become familiar with the capabilities, challeng
   - [Quiz 1: Data Stage of the ML Production Lifecycle](https://github.com/narima18/Machine-Learning-Engineering-for-Production-MLOps-Specialization/tree/d14c7b47a2bc058aea47e9d25863b6345710348b/Introduction%20to%20Machine%20Learning%20in%20Production/Week%203/Q1%20Data%20Stage%20of%20the%20ML%20Production%20Lifecycle)
   - [Quiz 2: Scoping](https://github.com/narima18/Machine-Learning-Engineering-for-Production-MLOps-Specialization/tree/d14c7b47a2bc058aea47e9d25863b6345710348b/Introduction%20to%20Machine%20Learning%20in%20Production/Week%203/Q2%20Scoping)
   - [Lab 1: Data Labeling](https://github.com/narima18/Machine-Learning-Engineering-for-Production-MLOps-Specialization/tree/6310f0a9da22af97404a7ec52f320658cd4efe6d/Introduction%20to%20Machine%20Learning%20in%20Production/Week%203/Ungraded%20lab%20-%20Data%20Labeling)
-  <hr/>
+<hr/>
 
+
+## Course 2 : [Machine Learning Data Lifecycle in Production](https://github.com/narima18/Machine-Learning-Engineering-for-Production-MLOps-Specialization/tree/a4ff64ebbdc8083fbabd6a5adf996e0bf2706a87/Machine%20Learning%20Data%20Lifecycle%20in%20Production)
+> In the second course of Machine Learning Engineering for Production Specialization, you will build data pipelines by gathering, cleaning, and validating datasets and assessing data quality; implement feature engineering, transformation, and selection with TensorFlow Extended and get the most predictive power out of your data; and establish the data lifecycle by leveraging data lineage and provenance metadata tools and follow data evolution with enterprise data schemas.
+
+- [<b> Week 1 </b> ](https://github.com/narima18/Machine-Learning-Engineering-for-Production-MLOps-Specialization/tree/a4ff64ebbdc8083fbabd6a5adf996e0bf2706a87/Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%201)
+  - [Quiz 1: Intro to MLEP](https://github.com/narima18/Machine-Learning-Engineering-for-Production-MLOps-Specialization/tree/a4ff64ebbdc8083fbabd6a5adf996e0bf2706a87/Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%201/Q1%20Intro%20to%20MLEP)
+  - [Quiz 2: Data Collection](https://github.com/narima18/Machine-Learning-Engineering-for-Production-MLOps-Specialization/tree/a4ff64ebbdc8083fbabd6a5adf996e0bf2706a87/Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%201/Q2%20Data%20Collection)
+  - [Quiz 3: Data Labeling](https://github.com/narima18/Machine-Learning-Engineering-for-Production-MLOps-Specialization/tree/a4ff64ebbdc8083fbabd6a5adf996e0bf2706a87/Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%201/Q3%20Data%20Labeling)
+  - [Lab 1: Deploying a Deep Learning model]()
+- [<b> Week 2 </b> ]()
+  - [Quiz 1: Selecting and Training a Model]()
+  - [Quiz 2: Modeling challenges](https://github.com/narima18/Machine-Learning-Engineering-for-Production-MLOps-Specialization/tree/70ff48f3e0523249b8ecf63f7971c2717f985b86/Introduction%20to%20Machine%20Learning%20in%20Production/Week%202/Q2%20Modeling%20challenges)
+  - [Lab 1: A journey through Data](https://github.com/narima18/Machine-Learning-Engineering-for-Production-MLOps-Specialization/tree/70ff48f3e0523249b8ecf63f7971c2717f985b86/Introduction%20to%20Machine%20Learning%20in%20Production/Week%202/Ungraded%20lab%20-%20A%20journey%20through%20Data)
+- [<b> Week 3 </b> ](https://github.com/narima18/Machine-Learning-Engineering-for-Production-MLOps-Specialization/tree/d14c7b47a2bc058aea47e9d25863b6345710348b/Introduction%20to%20Machine%20Learning%20in%20Production/Week%203)
+  - [Quiz 1: Data Stage of the ML Production Lifecycle](https://github.com/narima18/Machine-Learning-Engineering-for-Production-MLOps-Specialization/tree/d14c7b47a2bc058aea47e9d25863b6345710348b/Introduction%20to%20Machine%20Learning%20in%20Production/Week%203/Q1%20Data%20Stage%20of%20the%20ML%20Production%20Lifecycle)
+  - [Quiz 2: Scoping](https://github.com/narima18/Machine-Learning-Engineering-for-Production-MLOps-Specialization/tree/d14c7b47a2bc058aea47e9d25863b6345710348b/Introduction%20to%20Machine%20Learning%20in%20Production/Week%203/Q2%20Scoping)
+  - [Lab 1: Data Labeling](https://github.com/narima18/Machine-Learning-Engineering-for-Production-MLOps-Specialization/tree/6310f0a9da22af97404a7ec52f320658cd4efe6d/Introduction%20to%20Machine%20Learning%20in%20Production/Week%203/Ungraded%20lab%20-%20Data%20Labeling)
+<hr/>
