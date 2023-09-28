@@ -64,3 +64,15 @@ In this Specialization, you will become familiar with the capabilities, challeng
   - [Quiz 3: Different Data Types](https://github.com/narima18/Machine-Learning-Engineering-for-Production-MLOps-Specialization/blob/ae1f6fc8acb36963951e10b22f52a8bede518c97/Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%204/Q3%20Different%20Data%20Types.jpg)
   - [Labs](https://github.com/narima18/Machine-Learning-Engineering-for-Production-MLOps-Specialization/tree/ae1f6fc8acb36963951e10b22f52a8bede518c97/Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%204/Labs)
 <hr/>
+
+
+## Course 2 : [Machine Learning Data Lifecycle in Production](https://github.com/narima18/Machine-Learning-Engineering-for-Production-MLOps-Specialization/tree/23c4a2bd2649de89d1dcc0d6552bbefca6c2c492/Machine%20Learning%20Modeling%20Pipelines%20in%20Production)
+> In the third course of Machine Learning Engineering for Production Specialization, you will build models for different serving environments; implement tools and techniques to effectively manage your modeling resources and best serve offline and online inference requests; and use analytics tools and performance metrics to address model fairness, explainability issues, and mitigate bottlenecks.
+
+- [<b> Week 1 </b> ](https://github.com/narima18/Machine-Learning-Engineering-for-Production-MLOps-Specialization/tree/a4ff64ebbdc8083fbabd6a5adf996e0bf2706a87/Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%201)
+  - [Quiz 1: Hyperparameter Tuning and Neural Architecture Search](https://github.com/narima18/Machine-Learning-Engineering-for-Production-MLOps-Specialization/blob/23c4a2bd2649de89d1dcc0d6552bbefca6c2c492/Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%201/Q1%20Hyperparameter%20Tuning%20and%20Neural%20Architecture%20Search.jpg)
+  - [Quiz 2: Data Collection]()
+  - [Quiz 3: Data Labeling]()
+  - [Quiz 4: Issues in Training Data]()
+  - [Lab 1: TFDV]()
+  - [Assignment 1: Data Validation]()
