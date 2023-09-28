@@ -71,8 +71,5 @@ In this Specialization, you will become familiar with the capabilities, challeng
 
 - [<b> Week 1 </b> ](https://github.com/narima18/Machine-Learning-Engineering-for-Production-MLOps-Specialization/tree/a4ff64ebbdc8083fbabd6a5adf996e0bf2706a87/Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%201)
   - [Quiz 1: Hyperparameter Tuning and Neural Architecture Search](https://github.com/narima18/Machine-Learning-Engineering-for-Production-MLOps-Specialization/blob/23c4a2bd2649de89d1dcc0d6552bbefca6c2c492/Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%201/Q1%20Hyperparameter%20Tuning%20and%20Neural%20Architecture%20Search.jpg)
-  - [Quiz 2: Data Collection]()
-  - [Quiz 3: Data Labeling]()
-  - [Quiz 4: Issues in Training Data]()
-  - [Lab 1: TFDV]()
-  - [Assignment 1: Data Validation]()
+  - [Quiz 2: AutoML](https://github.com/narima18/Machine-Learning-Engineering-for-Production-MLOps-Specialization/tree/0330fca05ea85831f52bc49aeb615570286c84a5/Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%201/Q2%20AutoML)
+  - [Lab 1: Hyperparameter tuning and model training with TFX](https://github.com/narima18/Machine-Learning-Engineering-for-Production-MLOps-Specialization/blob/0330fca05ea85831f52bc49aeb615570286c84a5/Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%201/C3_W1_Lab_2_TFX_Tuner_and_Trainer.ipynb)
