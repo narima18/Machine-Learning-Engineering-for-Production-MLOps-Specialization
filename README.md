@@ -66,7 +66,7 @@ In this Specialization, you will become familiar with the capabilities, challeng
 <hr/>
 
 
-## Course 2 : [Machine Learning Data Lifecycle in Production](https://github.com/narima18/Machine-Learning-Engineering-for-Production-MLOps-Specialization/tree/23c4a2bd2649de89d1dcc0d6552bbefca6c2c492/Machine%20Learning%20Modeling%20Pipelines%20in%20Production)
+## Course 3 : [Machine Learning Modeling Pipelines in Production](https://github.com/narima18/Machine-Learning-Engineering-for-Production-MLOps-Specialization/tree/23c4a2bd2649de89d1dcc0d6552bbefca6c2c492/Machine%20Learning%20Modeling%20Pipelines%20in%20Production)
 > In the third course of Machine Learning Engineering for Production Specialization, you will build models for different serving environments; implement tools and techniques to effectively manage your modeling resources and best serve offline and online inference requests; and use analytics tools and performance metrics to address model fairness, explainability issues, and mitigate bottlenecks.
 
 - [<b> Week 1 </b> ](https://github.com/narima18/Machine-Learning-Engineering-for-Production-MLOps-Specialization/tree/a4ff64ebbdc8083fbabd6a5adf996e0bf2706a87/Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%201)
@@ -81,9 +81,9 @@ In this Specialization, you will become familiar with the capabilities, challeng
 - [<b> Week 3 </b> ](https://github.com/narima18/Machine-Learning-Engineering-for-Production-MLOps-Specialization/tree/bb527cabc3d7522c4b861a0981915a40587c2c06/Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%203)
   - [Quiz 1: High-Performance Modeling](https://github.com/narima18/Machine-Learning-Engineering-for-Production-MLOps-Specialization/tree/bb527cabc3d7522c4b861a0981915a40587c2c06/Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%203/Q1%20High-Performance%20Modeling)
   - [Quiz 2: Knowledge Distillation](https://github.com/narima18/Machine-Learning-Engineering-for-Production-MLOps-Specialization/tree/bb527cabc3d7522c4b861a0981915a40587c2c06/Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%203/Q2%20Knowledge%20Distillation)
-- [<b> Week 4 </b> ](https://github.com/narima18/Machine-Learning-Engineering-for-Production-MLOps-Specialization/tree/ae1f6fc8acb36963951e10b22f52a8bede518c97/Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%204)
-  - [Quiz 1: Advanced Labelling](https://github.com/narima18/Machine-Learning-Engineering-for-Production-MLOps-Specialization/tree/ae1f6fc8acb36963951e10b22f52a8bede518c97/Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%204/Q1%20Advanced%20Labelling)
-  - [Quiz 2: Data Augmentation](https://github.com/narima18/Machine-Learning-Engineering-for-Production-MLOps-Specialization/blob/ae1f6fc8acb36963951e10b22f52a8bede518c97/Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%204/Q2%20Data%20Augmentation.jpg)
-  - [Quiz 3: Different Data Types](https://github.com/narima18/Machine-Learning-Engineering-for-Production-MLOps-Specialization/blob/ae1f6fc8acb36963951e10b22f52a8bede518c97/Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%204/Q3%20Different%20Data%20Types.jpg)
-  - [Labs](https://github.com/narima18/Machine-Learning-Engineering-for-Production-MLOps-Specialization/tree/ae1f6fc8acb36963951e10b22f52a8bede518c97/Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%204/Labs)
+- [<b> Week 4 </b> ](https://github.com/narima18/Machine-Learning-Engineering-for-Production-MLOps-Specialization/tree/c2c2e92a7e52416d7606d3eef72bf940e069e973/Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%204)
+  - [Quiz 1: Model Analysis](https://github.com/narima18/Machine-Learning-Engineering-for-Production-MLOps-Specialization/blob/c2c2e92a7e52416d7606d3eef72bf940e069e973/Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%204/Q1%20Model%20Analysis.jpg)
+  - [Quiz 2: Model Analysis and Debugging](https://github.com/narima18/Machine-Learning-Engineering-for-Production-MLOps-Specialization/tree/c2c2e92a7e52416d7606d3eef72bf940e069e973/Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%204/Q2%20Model%20Analysis%20and%20Debugging)
+  - [Quiz 3: Continuous Evaluation and Monitoring](https://github.com/narima18/Machine-Learning-Engineering-for-Production-MLOps-Specialization/tree/c2c2e92a7e52416d7606d3eef72bf940e069e973/Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%204/Q3%20Continuous%20Evaluation%20and%20Monitoring)
+  - [Labs](https://github.com/narima18/Machine-Learning-Engineering-for-Production-MLOps-Specialization/tree/c2c2e92a7e52416d7606d3eef72bf940e069e973/Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%204/Labs)
 <hr/>
