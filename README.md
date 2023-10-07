@@ -107,5 +107,9 @@ In this Specialization, you will become familiar with the capabilities, challeng
   - [Quiz 4: Data Preprocessing](https://github.com/narima18/Machine-Learning-Engineering-for-Production-MLOps-Specialization/blob/8ff51382224de20203ae85d8972d89e2c5064e94/Deploying%20Machine%20Learning%20Models%20in%20Production/Week%202/Q4%20Data%20Preprocessing.jpg)
   - [Quiz 5: Batch inference scenarios](https://github.com/narima18/Machine-Learning-Engineering-for-Production-MLOps-Specialization/blob/8ff51382224de20203ae85d8972d89e2c5064e94/Deploying%20Machine%20Learning%20Models%20in%20Production/Week%202/Q5%20Batch%20inference%20scenarios.jpg)
   - [Quiz 6: Batch Processing with ETL](https://github.com/narima18/Machine-Learning-Engineering-for-Production-MLOps-Specialization/blob/8ff51382224de20203ae85d8972d89e2c5064e94/Deploying%20Machine%20Learning%20Models%20in%20Production/Week%202/Q6%20Batch%20Processing%20with%20ETL.jpg)
-
+- [<b> Week 3 </b> ](https://github.com/narima18/Machine-Learning-Engineering-for-Production-MLOps-Specialization/tree/0415627b52134712dce1fe52721a2a95694ab27f/Deploying%20Machine%20Learning%20Models%20in%20Production/Week%203)
+  - [Quiz 1: ML Experiments Management and Workflow Automation](https://github.com/narima18/Machine-Learning-Engineering-for-Production-MLOps-Specialization/tree/0415627b52134712dce1fe52721a2a95694ab27f/Deploying%20Machine%20Learning%20Models%20in%20Production/Week%203/Q1%20ML%20Experiments%20Management%20and%20Workflow%20Automation)
+  - [Quiz 2: MLOps Methodology](https://github.com/narima18/Machine-Learning-Engineering-for-Production-MLOps-Specialization/tree/0415627b52134712dce1fe52721a2a95694ab27f/Deploying%20Machine%20Learning%20Models%20in%20Production/Week%203/Q2%20MLOps%20Methodology)
+  - [Quiz 3: Online Inference](https://github.com/narima18/Machine-Learning-Engineering-for-Production-MLOps-Specialization/blob/372fa8dff6844e3c7421d3c9fcf09fc95d3f5bb5/Deploying%20Machine%20Learning%20Models%20in%20Production/Week%202/Q3%20Online%20Inference.jpg)
+  - [Quiz 4: Data Preprocessing]
 <hr/>
