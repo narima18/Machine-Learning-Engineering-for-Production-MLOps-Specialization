@@ -17,8 +17,6 @@ In this Specialization, you will become familiar with the capabilities, challeng
 
 ## Course 1 : [Introduction to Machine Learning in Production](https://github.com/narima18/Machine-Learning-Engineering-for-Production-MLOps-Specialization/tree/950ba2f3f1ae998bd8a86994bffd7c02a7239a91/Introduction%20to%20Machine%20Learning%20in%20Production)
 > In the first course of Machine Learning Engineering for Production Specialization, you will identify the various components and design an ML production system end-to-end: project scoping, data needs, modeling strategies, and deployment constraints and requirements; and learn how to establish a model baseline, address concept drift, and prototype the process for developing, deploying, and continuously improving a productionized ML application.
-> 
-> Understanding machine learning and deep learning concepts is essential, but if you’re looking to build an effective AI career, you need production engineering capabilities as well. Machine learning engineering for production combines the foundational concepts of machine learning with the functional expertise of modern software development and engineering roles to help you develop production-ready skills. 
 
 - [<b> Week 1 </b> ](https://github.com/narima18/Machine-Learning-Engineering-for-Production-MLOps-Specialization/tree/950ba2f3f1ae998bd8a86994bffd7c02a7239a91/Introduction%20to%20Machine%20Learning%20in%20Production/Week%201)
   - [Quiz 1: The Machine Learning Project Lifecycle](https://github.com/narima18/Machine-Learning-Engineering-for-Production-MLOps-Specialization/tree/950ba2f3f1ae998bd8a86994bffd7c02a7239a91/Introduction%20to%20Machine%20Learning%20in%20Production/Week%201/Q1%20The%20Machine%20Learning%20Project%20Lifecycle)
