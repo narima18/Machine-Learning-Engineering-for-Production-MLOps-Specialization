@@ -114,4 +114,3 @@ In this Specialization, you will become familiar with the capabilities, challeng
   - [Quiz 1: Model Monitoring and Logging](https://github.com/narima18/Machine-Learning-Engineering-for-Production-MLOps-Specialization/tree/827083cffdcb20480db78fda5b36b99aad44bea8/Deploying%20Machine%20Learning%20Models%20in%20Production/Week%204/Q1%20Model%20Monitoring%20and%20Logging)
   - [Quiz 2: Model Decay](https://github.com/narima18/Machine-Learning-Engineering-for-Production-MLOps-Specialization/tree/827083cffdcb20480db78fda5b36b99aad44bea8/Deploying%20Machine%20Learning%20Models%20in%20Production/Week%204/Q2%20Model%20Decay)
   - [Quiz 3: GDPR and Privacy](https://github.com/narima18/Machine-Learning-Engineering-for-Production-MLOps-Specialization/tree/827083cffdcb20480db78fda5b36b99aad44bea8/Deploying%20Machine%20Learning%20Models%20in%20Production/Week%204/Q3%20GDPR%20and%20Privacy)
-<hr/>
