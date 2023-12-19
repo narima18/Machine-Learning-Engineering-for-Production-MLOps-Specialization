@@ -1,4 +1,4 @@
-# Machine-Learning-Engineering-for-Production-MLOps-Specialization
+# Machine Learning Engineering for Production (MLOps) Specialization
 ![MLOps](https://github.com/narima18/Machine-Learning-Engineering-for-Production-MLOps-Specialization/assets/74022076/f86c36a2-f403-4fa1-b613-bb11f97ab978)
 
 [Coursera - Machine Learning Engineering for Production (MLOps) Specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
